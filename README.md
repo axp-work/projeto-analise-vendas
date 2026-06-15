@@ -24,12 +24,6 @@ Analisa dados de vendas de uma loja fictícia para descobrir:
 2. Abra no Jupyter Notebook
 3. Execute célula por célula (Shift + Enter)
 
-## Próximos passos (em breve)
-
-- Análise com dados reais
-- Gráficos interativos
-- Dashboard completo
-
 ---
 
 *Projeto - portfólio de Ciência de Dados*
