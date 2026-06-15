@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-red)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+
+
 # Análise de Vendas - Portfólio de Ciência de Dados
 
 **Ferramentas:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
