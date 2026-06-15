@@ -16,7 +16,7 @@ Analisa dados de vendas de uma loja fictícia para descobrir:
 
 ## Gráfico gerado
 
-![Gráfico de faturamento por categoria](Faturamento por categoria.png)
+![Gráfico de faturamento por categoria](Faturamento_por_categoria.png)
 
 ## Como executar
 
