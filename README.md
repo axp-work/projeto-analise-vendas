@@ -1,33 +1,23 @@
-# Análise de Vendas - Primeiro Portfólio
+# 📊 Análise de Vendas - Portfólio de Ciência de Dados
 
-## Descrição do Projeto
-Análise simples de dados de vendas de uma loja fictícia, demonstrando habilidades básicas em ciência de dados.
+[![Python](https://img.shields.io/badge/Python-3.14-blue)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0-red)](https://pandas.pydata.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-## Ferramentas Utilizadas
-- Python 3.14
-- Pandas (manipulação de dados)
-- Matplotlib e Seaborn (visualização)
+## Projeto
 
-## Etapas Realizadas
-1. Criação de base de dados fictícia
-2. Cálculo de faturamento por produto
-3. Identificação do produto mais vendido
-4. Agrupamento de faturamento por categoria
-5. Criação de gráfico de barras
+Este projeto é uma **análise exploratória de dados (EDA)** de uma loja fictícia, demonstrando habilidades fundamentais em ciência de dados.
 
-## Resultados Obtidos
-- Produto com maior faturamento: **Tênis** (R$ 31.980)
-- Categoria com maior faturamento: **Calçados** (R$ 31.980)
+**Problema de negócio:** Identificar quais produtos e categorias geram mais faturamento para direcionar estratégias de vendas.
 
-## Como Executar
-1. Baixe o arquivo `analise_vendas.ipynb`
-2. Abra no Jupyter Notebook
-3. Execute todas as células em ordem
+## 🛠️ Ferramentas Utilizadas
 
-## Próximos Passos
-- Adicionar mais produtos
-- Incluir análise de lucro
-- Criar dashboard interativo
+| Ferramenta | Finalidade |
+|------------|------------|
+| **Pandas** | Manipulação e análise de dados |
+| **NumPy** | Operações numéricas |
+| **Matplotlib** | Visualização de dados (base) |
+| **Seaborn** | Visualização de dados (estatística) |
+| **Jupyter Notebook** | Ambiente interativo |
 
----
-*Projeto criado como parte do portfólio de Ciência de Dados*
+## 📁 Estrutura do Projeto
