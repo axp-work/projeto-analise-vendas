@@ -10,7 +10,7 @@ Este projeto é uma **análise exploratória de dados (EDA)** de uma loja fictí
 
 **Problema de negócio:** Identificar quais produtos e categorias geram mais faturamento para direcionar estratégias de vendas.
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 | Ferramenta | Finalidade |
 |------------|------------|
